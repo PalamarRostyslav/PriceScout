@@ -1,4 +1,3 @@
-import modal
 from pricer_service_cls_version import app, Pricer
 
 @app.local_entrypoint()
